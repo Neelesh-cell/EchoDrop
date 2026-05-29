@@ -1,0 +1,10 @@
+{
+  "name": "widget-sdk",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node esbuild.config.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.0"
+  }
+}
